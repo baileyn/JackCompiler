@@ -45,6 +45,7 @@
     <Compile Include="Hack\Parser.cs" />
     <Compile Include="Hack\Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Hack\ClassNode.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

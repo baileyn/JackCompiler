@@ -18,6 +18,10 @@ namespace HackCompiler.Hack
         }
 
 		public void Parse() {
+			
+		}
+
+		private void parseShit() {
 		}
     }
 }
